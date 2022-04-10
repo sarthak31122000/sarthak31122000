@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with my classmates
 - 💬 Ask me about Frontend,backend and any tech related Stuff
-- 📫 How to reach me:Linkedin[<a href="https://www.linkedin.com/in/sarthak-sharma-671a491a6/">Linkedin</a>]
+- 📫 How to reach me:Linkedin
+- [<a href="https://www.linkedin.com/in/sarthak-sharma-671a491a6/">Linkedin</a>]
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sarthak31122000)](https://github.com/sarthak31122000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak31122000&layout=compact)](https://github.com/sarthak31122000)
 
