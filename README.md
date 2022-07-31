@@ -10,6 +10,7 @@
 - </br>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=sarthak31122000)](https://github.com/sarthak31122000)
 
+<img src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" height=600 width=400 />
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak31122000&layout=compact)](https://github.com/sarthak31122000)
